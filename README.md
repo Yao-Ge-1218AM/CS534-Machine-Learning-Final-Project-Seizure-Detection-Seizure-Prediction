@@ -32,7 +32,7 @@ This project focuses on the development and evaluation of machine learning model
 
 ## Models Used
 
-**1. Random Forest:**。  
+**1. Random Forest:**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Achieved the highest accuracy in seizure detection with a combination of FFT and correlation features.
 
 **2. Support Vector Machine (SVM):**   
@@ -46,9 +46,11 @@ This project focuses on the development and evaluation of machine learning model
 
 ## Model Evaluation
 
-    Metrics: Accuracy, Recall, Confusion Matrix, and F1 Score were used to evaluate model performance.
-    Results:
-        Random Forest: Best overall performance in seizure detection with nearly 97% accuracy.
-        SVM: High accuracy (~90%) but lower F1 scores due to high false negatives.
-        LSTM: Lower accuracy (~70%), limited by model complexity.
-        Logistic Regression: Outperformed Linear Regression in seizure prediction, particularly with frequency correlation features.
+**Metrics:** Accuracy, Recall, Confusion Matrix, and F1 Score were used to evaluate model performance.
+
+**Results:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Random Forest: Best overall performance in seizure detection with nearly 97% accuracy.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SVM: High accuracy (~90%) but lower F1 scores due to high false negatives.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LSTM: Lower accuracy (~70%), limited by model complexity.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logistic Regression: Outperformed Linear Regression in seizure prediction, particularly with frequency correlation features.
+
