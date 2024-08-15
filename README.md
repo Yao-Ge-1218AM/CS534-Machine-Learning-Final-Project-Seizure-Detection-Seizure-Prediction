@@ -32,16 +32,19 @@ This project focuses on the development and evaluation of machine learning model
 
 ## Models Used
 
-    Random Forest:
-        Achieved the highest accuracy in seizure detection with a combination of FFT and correlation features.
-    Support Vector Machine (SVM):
-        Showed strong performance, particularly with frequency correlation features, achieving high precision.
-    Long Short-Term Memory (LSTM):
-        Explored for its ability to handle sequential data, though performance was lower due to model complexity and resource constraints.
-    Linear and Logistic Regression:
-        Applied in seizure prediction, with Logistic Regression outperforming Linear Regression, particularly with frequency correlation features.
+**1. Random Forest:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Achieved the highest accuracy in seizure detection with a combination of FFT and correlation features.
 
-Model Evaluation
+**2. Support Vector Machine (SVM):**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Showed strong performance, particularly with frequency correlation features, achieving high precision.
+
+**3. Long Short-Term Memory (LSTM):**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Explored for its ability to handle sequential data, though performance was lower due to model complexity and resource constraints.
+
+**4. Linear and Logistic Regression:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applied in seizure prediction, with Logistic Regression outperforming Linear Regression, particularly with frequency correlation features.
+
+## Model Evaluation
 
     Metrics: Accuracy, Recall, Confusion Matrix, and F1 Score were used to evaluate model performance.
     Results:
