@@ -14,8 +14,7 @@ This project focuses on the development and evaluation of machine learning model
 **Source:** The data used in this project is sourced from the University of Pennsylvania and the Mayo Clinic.
 
 **Structure:**
-
-    Seizure Detection: EEG clips labeled as "Ictal" or "Interictal."  
-    Seizure Prediction: EEG clips labeled as "Preictal" (before seizure) or "Interictal."   
+&nbsp;&nbsp;&nbsp;&nbsp;**Seizure Detection:** EEG clips labeled as "Ictal" or "Interictal."   
+&nbsp;&nbsp;&nbsp;&nbsp;**Seizure Prediction:** EEG clips labeled as "Preictal" (before seizure) or "Interictal."   
 
 
