@@ -23,8 +23,11 @@ This project focuses on the development and evaluation of machine learning model
 **Frequency Domain:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;**· Fast Fourier Transform (FFT):** Used to convert EEG signals from the time domain to the frequency domain, focusing on frequencies between 1-47Hz.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**· Correlation Coefficients:** Calculated in both time and frequency domains.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**· Eigenvalues:** Extracted from the correlation matrix to capture the variance in EEG signals.
+
 &nbsp;&nbsp;&nbsp;&nbsp;**· Time Domain:** Similar techniques applied as in the frequency domain, focusing on capturing temporal features of the EEG signals.
 
 ## Models Used
