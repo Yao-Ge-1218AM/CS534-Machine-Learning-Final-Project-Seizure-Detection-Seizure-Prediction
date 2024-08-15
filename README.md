@@ -28,7 +28,7 @@ This project focuses on the development and evaluation of machine learning model
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**· Eigenvalues:** Extracted from the correlation matrix to capture the variance in EEG signals.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**· Time Domain:** Similar techniques applied as in the frequency domain, focusing on capturing temporal features of the EEG signals.
+**Time Domain:** Similar techniques applied as in the frequency domain, focusing on capturing temporal features of the EEG signals.
 
 ## Models Used
 
@@ -49,8 +49,8 @@ This project focuses on the development and evaluation of machine learning model
 **Metrics:** Accuracy, Recall, Confusion Matrix, and F1 Score were used to evaluate model performance.
 
 **Results:**  
-&nbsp;&nbsp;&nbsp;&nbsp;1. Random Forest: Best overall performance in seizure detection with nearly 97% accuracy.  
-&nbsp;&nbsp;&nbsp;&nbsp;2. SVM: High accuracy (~90%) but lower F1 scores due to high false negatives.  
-&nbsp;&nbsp;&nbsp;&nbsp;3. LSTM: Lower accuracy (~70%), limited by model complexity.  
-&nbsp;&nbsp;&nbsp;&nbsp;4. Logistic Regression: Outperformed Linear Regression in seizure prediction, particularly with frequency correlation features.
+&nbsp;&nbsp;&nbsp;&nbsp;**1. Random Forest:** Best overall performance in seizure detection with nearly 97% accuracy.  
+&nbsp;&nbsp;&nbsp;&nbsp;**2. SVM:** High accuracy (~90%) but lower F1 scores due to high false negatives.  
+&nbsp;&nbsp;&nbsp;&nbsp;**3. LSTM:** Lower accuracy (~70%), limited by model complexity.  
+&nbsp;&nbsp;&nbsp;&nbsp;**4. Logistic Regression:** Outperformed Linear Regression in seizure prediction, particularly with frequency correlation features.
 
